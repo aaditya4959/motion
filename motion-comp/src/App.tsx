@@ -1,8 +1,9 @@
-import {Container} from "../components/Container";
-
+import {Playlist} from "../components/Playlist"
 
 export default function App() {
   return (
-    <Container/>
+    <>
+      <Playlist />
+    </>
   )
 }

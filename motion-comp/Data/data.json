@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "Softly",
+      "artist": "Karan Aujla",
+      "description": "A smooth blend of romantic and urban Punjabi vibes.",
+      "thumbnail": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2"
+    },
+    {
+      "name": "Admirin' You",
+      "artist": "Karan Aujla",
+      "description": "A melodic tribute expressing deep admiration and affection.",
+      "thumbnail": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29"
+    },
+    {
+      "name": "52 Bars",
+      "artist": "Karan Aujla",
+      "description": "A lyrical masterpiece showcasing his raw storytelling.",
+      "thumbnail": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745"
+    },
+    {
+      "name": "WYTB",
+      "artist": "Karan Aujla",
+      "description": "High-energy track with hard-hitting beats and attitude.",
+      "thumbnail": "https://images.unsplash.com/photo-1532777951173-06c99e0b822e"
+    },
+    {
+      "name": "Chitta Kurta",
+      "artist": "Karan Aujla ft. Gurlez Akhtar",
+      "description": "Popular banger known for its vibrant vibe and catchy hook.",
+      "thumbnail": "https://images.unsplash.com/photo-1511376777868-611b54f68947"
+    },
+    {
+      "name": "Mexico",
+      "artist": "Karan Aujla",
+      "description": "A journey-themed song with edgy lyrics and visuals.",
+      "thumbnail": "https://images.unsplash.com/photo-1502767089025-6572583495b0"
+    },
+    {
+      "name": "Hint",
+      "artist": "Karan Aujla",
+      "description": "Smooth and catchy, this track delivers subtle hints of romance.",
+      "thumbnail": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae"
+    },
+    {
+      "name": "No Worries",
+      "artist": "Karan Aujla ft. Gurlez Akhtar",
+      "description": "Feel-good song about living stress-free and bold.",
+      "thumbnail": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    }
+  ]
+}
